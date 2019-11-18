@@ -20,11 +20,13 @@
   },
   "homepage": "https://github.com/RMT-Labs/react-micro-tactics-be#readme",
   "dependencies": {
+    "@hapi/joi": "^16.1.7",
     "cors": "^2.8.5",
     "docusign-esign": "^4.0.2",
     "dotenv": "^8.2.0",
     "es6-promisify": "^6.0.2",
     "express": "^4.17.1",
+    "express-pouchdb": "^4.2.0",
     "helmet": "^3.21.2",
     "pouchdb": "^7.1.1"
   },
