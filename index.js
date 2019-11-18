@@ -1,7 +1,6 @@
 require('dotenv').config()
 const express = require('express')
 const helmet  = require('helmet')
-const morgan = require('morgan')
 const cors = require('cors')
 const AgentDocs = require('./api/routes/agent-docs')
 // const StripeCheckout = require('./api/routes/stripe-checkout')
@@ -15,7 +14,6 @@ server.disable('x-powered-by')
 server.use(express.json())
 server.use(cors())
 server.use(helmet())
-server.use(morgan('dev'))
 
 server.get('/', (req, res)=>{
     res.send('Welcome to AGI 100 backend.')
