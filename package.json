@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently 'npm run localDb' 'nodemon index.js'",
+    "start": "node index.js",
+    "dev": "concurrently 'npm run localDb' 'nodemon index.js'",
     "localDb": "pouchdb-server -p 5984",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

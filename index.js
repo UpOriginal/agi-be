@@ -11,6 +11,7 @@ const Validator = require('./api/middleware/registerValidation')
 const port = process.env.PORT || 4001
 const server = express()
 
+server.disable('x-powered-by')
 server.use(express.json())
 server.use(cors())
 server.use(helmet())
