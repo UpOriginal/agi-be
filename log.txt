@@ -3427,3 +3427,31 @@
 [Mon, 18 Nov 2019 15:43:36 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
 [Mon, 18 Nov 2019 15:45:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/ 200
 [Mon, 18 Nov 2019 15:45:19 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /UsersDB/2019-11-18T15%3A45%3A19.575Z 201
+[Mon, 18 Nov 2019 16:35:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Mon, 18 Nov 2019 16:35:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Mon, 18 Nov 2019 16:35:25 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Mon, 18 Nov 2019 16:35:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Mon, 18 Nov 2019 16:35:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Mon, 18 Nov 2019 16:35:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Mon, 18 Nov 2019 16:35:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Mon, 18 Nov 2019 16:35:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Mon, 18 Nov 2019 16:35:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_design/user-views/_view/all?limit=21&reduce=false 200
+[Mon, 18 Nov 2019 16:35:26 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Mon, 18 Nov 2019 16:35:27 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1574094926472 200
+[Mon, 18 Nov 2019 16:35:27 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Mon, 18 Nov 2019 16:35:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1574094926473 200
+[Mon, 18 Nov 2019 16:35:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1574094926474 200
+[Mon, 18 Nov 2019 16:35:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /AGI100?_=1574094926475 200
+[Mon, 18 Nov 2019 16:35:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /StripeDB?_=1574094926476 200
+[Mon, 18 Nov 2019 16:35:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB?_=1574094926477 200
+[Mon, 18 Nov 2019 16:35:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1574094926478 200
+[Mon, 18 Nov 2019 16:35:29 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1574094926479 200
+[Mon, 18 Nov 2019 16:35:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 304
+[Mon, 18 Nov 2019 16:35:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?limit=21 200
+[Mon, 18 Nov 2019 16:35:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1574094926480 200
+[Mon, 18 Nov 2019 16:35:33 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?include_docs=true&conflicts=true&limit=21 200
+[Mon, 18 Nov 2019 16:35:39 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /UsersDB/_all_docs?limit=21 304
+[Wed, 27 Nov 2019 00:21:59 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 27 Nov 2019 00:21:59 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Wed, 27 Nov 2019 00:24:05 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 27 Nov 2019 00:24:05 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
