@@ -1,0 +1,5 @@
+
+language: node_js
+
+notifications:
+  slack: upthread:WE5SJFAIJzQuPYlrNnCTeLv1
