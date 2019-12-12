@@ -6,7 +6,8 @@ This repository contains the back-end for AGI America.
 
 ## Test API (SwaggerHub)
 
-Check out the [Swagger Docs](https://trello.com/b/iULA29CO/weight-lifting-journal-back-end) for an interactive API client
+Check out the [Swagger Docs](https://app.swaggerhub.com/apis-docs/agi1001/agi100/1.0.0) for an interactive API client.
+To use the interactive client, switch the url display on that page to (https://agi-be.herokuapp.com/)
 
 ## Table of Contents
 
