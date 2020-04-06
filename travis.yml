@@ -3,3 +3,5 @@ language: node_js
 
 notifications:
   slack: upthread:WE5SJFAIJzQuPYlrNnCTeLv1
+
+travis encrypt "upthread:WE5SJFAIJzQuPYlrNnCTeLv1" --add notifications.slack
