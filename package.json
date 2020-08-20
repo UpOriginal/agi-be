@@ -21,7 +21,7 @@
   "homepage": "https://github.com/upthread/agi-be#readme",
   "proxy": "http://localhost:3100",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
     "docusign-esign": "^5.1.0",
     "dotenv": "^8.2.0",
